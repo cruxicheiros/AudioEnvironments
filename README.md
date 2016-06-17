@@ -1,6 +1,21 @@
 # AudioEnvironments
 Creates a 3d audio environment with PyAL. 
 
+## How to Run
+You will need three things already installed: OpenAL, Python 3, and PyAL. Python 3 is available from here:
+
+https://www.python.org/downloads/release/python-351/
+
+and OpenAL is available from here:
+
+https://www.openal.org/downloads/
+
+and PyAL is available from here:
+
+http://pyal.readthedocs.io/en/latest/install.html
+
+The number of dependencies this project has will decrease once I learn how to distribute them with AudioEnvironments.
+
 ## Acknowledgements
 The following sound clips are from freesound.com.
 
